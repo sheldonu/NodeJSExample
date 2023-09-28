@@ -1,0 +1,18 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS"
+  },
+  "keywords": [
+    "newproject"
+  ],
+  "author": "sheldon uchytil",
+  "license": "ISC"
+}
